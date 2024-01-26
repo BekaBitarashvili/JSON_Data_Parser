@@ -38,5 +38,5 @@ print("Closed Loans:", parsed_data1["body"]["closedLoans"])
 print("Is Installment:", parsed_data1["body"]["isInstallment"])
 print("Intercept:", parsed_data1["body"]["intercept"])
 for i, j in parsed_data1["body"].items():
-    print(i, ":", j)
+    print("\t", i, ":", j)
 print("Posible Credit Amount:", parsed_data1["body"]["creditAmount"])
