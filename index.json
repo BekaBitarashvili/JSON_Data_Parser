@@ -1,0 +1,8 @@
+{
+  "title": "Hello, World!",
+    "content": "This is a simple example of a JSON file.",
+        "author": {"name": "John Doe", "email": "code@posta.ge"},
+            "tags": ["example", "json", "file"],
+                "published": true,
+                    "published_at": "2020-01-01T00:00:00Z"
+}
